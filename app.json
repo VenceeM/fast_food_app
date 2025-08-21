@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "tutorialnative",
-    "slug": "tutorialnative",
+    "name": "fast_food",
+    "slug": "fast_food",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "tutorialnative",
+    "scheme": "fastfood",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
